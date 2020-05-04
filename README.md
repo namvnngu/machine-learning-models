@@ -1,4 +1,4 @@
-## Assignment 2: Machine Learning Challenge
+## Assignment 3: Machine Learning Challenge
 
 Unit code: SIT307
 
